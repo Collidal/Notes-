@@ -3,13 +3,13 @@
     <channel>
         <title>Notes ++</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Sun, 24 May 2026 12:26:19 -0700</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Sun, 24 May 2026 13:43:36 -0700</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.0.1/NotesPlusPlus-1.0.1.zip" length="308161521" type="application/octet-stream" sparkle:edSignature="63roo9ROohg5ZPlYanu/1WPI6myu5Zu4DMgXBxRFtQAouR+VJnfSD5K9fmiQY786oXXg9UWloBKIdqN2vZDmDA=="/>
+            <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.0.2/NotesPlusPlus-1.0.2.zip" length="308171497" type="application/octet-stream" sparkle:edSignature="cKVgzQGah5VNZnARU1dPJGNCnE2DlytOwsrAJv0A6hKQgPZXL9s2hgpfU7PhwBce6Xt5s+8e/NzyWojx7w45BQ=="/>
         </item>
     </channel>
 </rss>

@@ -3,17 +3,17 @@
     <channel>
         <title>Notes ++</title>
         <item>
-            <title>1.1.24</title>
-            <pubDate>Sat, 01 Aug 2026 23:58:58 -0700</pubDate>
-            <sparkle:version>1.1.24</sparkle:version>
-            <sparkle:shortVersionString>1.1.24</sparkle:shortVersionString>
+            <title>1.1.25</title>
+            <pubDate>Sun, 02 Aug 2026 00:27:23 -0700</pubDate>
+            <sparkle:version>1.1.25</sparkle:version>
+            <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.1.24/NotesPlusPlus-1.1.24.zip" length="309848426" type="application/octet-stream" sparkle:edSignature="mvOzRBZv7NYY2FhWndSBqr8xpDh/3vKLZTKpANLs6DSndOdRlny1VZu3P0GwPMg7okFXYJ8jnwWs43JL5Wt6Ag=="/>
+            <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.1.25/NotesPlusPlus-1.1.25.zip" length="309863423" type="application/octet-stream" sparkle:edSignature="tdISid9OH0cYOasfun6tToMtxn8foxAM8ymESgvudWUHU8V0jfTgMS6WReFu6mkk0KbKzTef1ynhv64TLC4mCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.1.24/NotesPlusPlus-1.1.23-to-1.1.24.delta" sparkle:deltaFrom="1.1.23" length="738874" type="application/octet-stream" sparkle:edSignature="yQGC58mkobCVKbQEJxrV1UsUC4eVctqke+nEh0Jk/+eiV8C2b8/7qRpPoq239b5OSfuE6krJTJ36YJoAF18XBw=="/>
-                <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.1.24/NotesPlusPlus-1.1.22-to-1.1.24.delta" sparkle:deltaFrom="1.1.22" length="1011154" type="application/octet-stream" sparkle:edSignature="Ulk87QSNhZRquwInaI1tfvj7zEvpEhhwTE5hC1GSvElQsq0AK4ZSJ/3zDwQgJwz9u+EFQv5Wr2NJKz0zPrZPCg=="/>
-                <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.1.24/NotesPlusPlus-1.1.21-to-1.1.24.delta" sparkle:deltaFrom="1.1.21" length="1171206" type="application/octet-stream" sparkle:edSignature="QT/1/5zjFuxfFh3zLo9T7f5RA6XbJQK6ruZlvHMPI5tOW6KchHp2gMynGBfLGb/04lGoIHiNeLvw0kOJX1LmAA=="/>
+                <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.1.25/NotesPlusPlus-1.1.24-to-1.1.25.delta" sparkle:deltaFrom="1.1.24" length="450462" type="application/octet-stream" sparkle:edSignature="wnK1Fj+fVgX3m3f8SaS3OLSAg5uydZ/8ArB6F5ohoTxynamePGj1yWb2GJcY3cTDwNFT2fCjI+RRjSONd8iGBw=="/>
+                <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.1.25/NotesPlusPlus-1.1.23-to-1.1.25.delta" sparkle:deltaFrom="1.1.23" length="793394" type="application/octet-stream" sparkle:edSignature="HsV4/73H9qOhfDMFrptctt8yOdDRwEskEi/GLN0x/i1fcjhjN5+ELnfBxrIAyprxdoHk5aLohs99QVpjilYMBw=="/>
+                <enclosure url="https://github.com/Collidal/Notes-/releases/download/v1.1.25/NotesPlusPlus-1.1.22-to-1.1.25.delta" sparkle:deltaFrom="1.1.22" length="1048694" type="application/octet-stream" sparkle:edSignature="2Zgem6f5lvL6EI5XQCTC/OnKT7gLRR1ZJOiggbagZ+RnatGAPBYiO0fb8373XIRf8085dhMfBHTtVP70Mz8zCg=="/>
             </sparkle:deltas>
         </item>
     </channel>

@@ -3,17 +3,17 @@
     <channel>
         <title>Notes ++</title>
         <item>
-            <title>1.1.67</title>
-            <pubDate>Thu, 10 Sep 2026 20:08:08 -0700</pubDate>
-            <sparkle:version>1.1.67</sparkle:version>
-            <sparkle:shortVersionString>1.1.67</sparkle:shortVersionString>
+            <title>1.1.68</title>
+            <pubDate>Thu, 10 Sep 2026 21:54:07 -0700</pubDate>
+            <sparkle:version>1.1.68</sparkle:version>
+            <sparkle:shortVersionString>1.1.68</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.67.zip" length="311042040" type="application/octet-stream" sparkle:edSignature="KvpwIv1cS6/zSHHlvHu+GtX9psG4NNadehF4HaeKo8PsyD3EQhAZohCPPPOvFTZLe8A32odXQDVxNrjmYokpBA=="/>
+            <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.68.zip" length="311049352" type="application/octet-stream" sparkle:edSignature="7DL9iN1r5nbXiVzhEhXbMo8rF6JOlbxkYY3mYxouUvTDieIp5l5BCp7qO+hy3SY/wf2jTJpNMA2CRQjfDYorBA=="/>
             <sparkle:deltas>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.66-to-1.1.67.delta" sparkle:deltaFrom="1.1.66" length="294866" type="application/octet-stream" sparkle:edSignature="yWK9n0/U6s+676ZB0F4YnI1C3U/+zRl3es202XR/JR1ZmmWJF6JwQ3QFu2ZQYMFiJKIPuegUfUm1RItvI2FsCQ=="/>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.65-to-1.1.67.delta" sparkle:deltaFrom="1.1.65" length="363074" type="application/octet-stream" sparkle:edSignature="jYa8eIvLLig39wXW24k3Zb4LlnWoWDfpYYogMCDP4zY9ylZxln4URGZdMqt+IwXoPGovT/xJJNP5meYCaBC+Dg=="/>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.64-to-1.1.67.delta" sparkle:deltaFrom="1.1.64" length="529354" type="application/octet-stream" sparkle:edSignature="64Tsq4iCCqNPrZEvlwChrh11FbCplJCL9LBnFhpo5RHEhusrW8G6vyaPPm6OHIVMFTgoLNIQ+Azx754e0/bSAQ=="/>
+                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.67-to-1.1.68.delta" sparkle:deltaFrom="1.1.67" length="517870" type="application/octet-stream" sparkle:edSignature="cy7gM8Lz4l+qQM8dr6p/kowG9A4Hb28uEwmoldz/DSaO+W8SKcXvIldq2iLsH2evNTDhmio5q6DDcB2R/0R0CA=="/>
+                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.66-to-1.1.68.delta" sparkle:deltaFrom="1.1.66" length="542266" type="application/octet-stream" sparkle:edSignature="3odhpKheTOcbkKS/agNvqIktRKoOKW0Jo/8ZZGHGXlRS5JqaJAPRgeNJFAY1fPqZM1giBQtKDWhNxh6tGV3/BA=="/>
+                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.65-to-1.1.68.delta" sparkle:deltaFrom="1.1.65" length="605058" type="application/octet-stream" sparkle:edSignature="ztIANFDVYWa+ZkJGuOa8tPQpzzavP4hKHqFiDFOTZtQ1arN7triQVEJgOxaURB/tt56UuRkjMVvuwPq22lcGCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>

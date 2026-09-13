@@ -3,18 +3,18 @@
     <channel>
         <title>Notes ++</title>
         <item>
-            <title>1.1.73</title>
-            <description><![CDATA[<p>Quiz questions can now include relevant histology, clinical images, and diagrams from your lecture slides.</p><p>- Answer-revealing labels are covered, and images are checked for relevance and remaining answer clues. Unsuitable image questions are skipped.</p><p>- Relevant images from your local AnKing cards can supplement lecture images when Anki is connected. Open the source card after answering.</p><p>- Click quiz images to enlarge them. Generate New Questions to try the updated image checks.</p>]]></description>
-            <pubDate>Sat, 12 Sep 2026 11:22:59 -0700</pubDate>
-            <sparkle:version>1.1.73</sparkle:version>
-            <sparkle:shortVersionString>1.1.73</sparkle:shortVersionString>
+            <title>1.1.75</title>
+            <description><![CDATA[<ul><li>Download lectures consecutively: the download action stays available after a completed run, and selecting new days resets the finished state.</li><li>Right-click an unanswered quiz choice to strike it out; right-click again to restore it.</li><li>In-lecture quizzes open in a separate window that can be moved by its title bar or inside edge.</li><li>Reduce repeated Keychain prompts: stop automatic retries after declined or unavailable access, and retry explicitly with Unlock saved credentials in Settings. macOS may still request permission for existing saved credentials after updates.</li><li>Fix narrow-window clipping and use the nine original loading animations with complete, smooth repeat cycles throughout the app.</li></ul>]]></description>
+            <pubDate>Sat, 12 Sep 2026 22:22:32 -0700</pubDate>
+            <sparkle:version>1.1.75</sparkle:version>
+            <sparkle:shortVersionString>1.1.75</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.73.zip" length="311138027" type="application/octet-stream" sparkle:edSignature="Q25DVljYXwDInCY1nzBZjHcIWsaxtmt3kuBxRVRo1p/PL35+hehLDJn2QpIlJEzxoiWmVIuzNe2zPnq03Z4UBg=="/>
+            <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.75.zip" length="311205179" type="application/octet-stream" sparkle:edSignature="9hTTe5TVle4VN/xpJ6PXMK8T7UQ+IlLBwF6+pa8go2wqyDlaa1+K4nMKLgguuNMngScLBvtKzIZ5Rb/6ejfgBg=="/>
             <sparkle:deltas>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.71-to-1.1.73.delta" sparkle:deltaFrom="1.1.71" length="806830" type="application/octet-stream" sparkle:edSignature="WhhiVsxsaqUPByyqxlOPVra78l3FONIKQw+zZUxOVg5+ibr5AdtDeCr5tjdXuWKNMWHVZNelVTsVIHKWIW4nAQ=="/>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.70-to-1.1.73.delta" sparkle:deltaFrom="1.1.70" length="802638" type="application/octet-stream" sparkle:edSignature="U1zTnUN9MhzD1rKRcboJOJ+Dt9UekoExHXqKKe+mzzrL+W3YGiX5OJ4e3OsW+rCN7kZaCNiaHUczO7rp2R7TAA=="/>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.69-to-1.1.73.delta" sparkle:deltaFrom="1.1.69" length="876710" type="application/octet-stream" sparkle:edSignature="KAey+7WPaQFlb27Pr2YIkIlXJy9HAXtW+aTnUhr4hd+0Lrs928x8Wmbvnld9zam4UW1IXw4+GSx/A1fRKwN6CQ=="/>
+                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.73-to-1.1.75.delta" sparkle:deltaFrom="1.1.73" length="938366" type="application/octet-stream" sparkle:edSignature="e4go8tDHz2DJW7J6Afnit3u/9LeXumErabliMPCaS295fyJlRk1ci4tikfcw6YIDZq4glyNfYUS3toLJsQOpCA=="/>
+                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.71-to-1.1.75.delta" sparkle:deltaFrom="1.1.71" length="1045046" type="application/octet-stream" sparkle:edSignature="445tLkF6K6Yy4oMMclr92uKwZGKO2IRPu0ur2or+S0LUjYfCu7NB9QSaKngL3UBlAmDJab0+HVCAEpasb9NzBw=="/>
+                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.70-to-1.1.75.delta" sparkle:deltaFrom="1.1.70" length="1049422" type="application/octet-stream" sparkle:edSignature="u8RsysypfdTyoGYTjUeFmemxyQByEu/r/8EPGCLnSmpPydr95JTqHJMbj8QSSAdrehTrm0dqoDRtmwTtDS9kAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>

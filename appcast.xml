@@ -3,6 +3,21 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.83</title>
+      <pubDate>Wed, 23 Sep 2026 15:30:27 -0700</pubDate>
+      <sparkle:version>1.1.83</sparkle:version>
+      <sparkle:shortVersionString>1.1.83</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.83.zip" length="311480814" type="application/octet-stream" sparkle:edSignature="0Xm0IctuA/Rznb55GnC79tDnCydw8Hce7aAVVBHy46g4c5TnxpzglztnaPyRNkACGS1bMP2F2tYiT1LEip6UCw==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.82-to-1.1.83.delta" sparkle:deltaFrom="1.1.82" length="879842" type="application/octet-stream" sparkle:edSignature="QDaQ3wMIv6v2CAOKA5FbLfeJVKMa5jWazJB1afcSghqFZdX9UKfp/H4ETftW2CWA4t0ZJRvW6oVwKwHJfrb5CQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.81-to-1.1.83.delta" sparkle:deltaFrom="1.1.81" length="876858" type="application/octet-stream" sparkle:edSignature="I05Zc3caut3VlfpKegRJsLW0V3JNGXztGOGCMy1s9cdjDALx5XpDWGb4MKi4/iaE4JELFt07bGWXtHz7MgP6AQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.80-to-1.1.83.delta" sparkle:deltaFrom="1.1.80" length="1112378" type="application/octet-stream" sparkle:edSignature="AkHS/1Cc0wj2H8If0MvFKHCaVRy3OBoiikebIYYZ5/FpTWRr3sJnLisgbsbuIOrA4v+6bhaZe4IIXw3WVX4jAQ==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.83 — Try GPT and type more smoothly&lt;br/&gt;&lt;br/&gt;- Choose GPT-5.6 Sol alongside Claude in Settings → Free Claude credits.&lt;br/&gt;- GPT learning-objective answers and quizzes stay private to the user&amp;#x27;s Mac. They never read from or write to either class bank, while generation remains metered against the user&amp;#x27;s university allowance.&lt;br/&gt;- Side-note typing is smoother. Notes no longer reapply unchanged paragraph formatting or force redundant layout and redraw passes on every keystroke.&lt;br/&gt;- Note zoom scaling, text wrapping, automatic growth and saving continue to work normally.&lt;br/&gt;&lt;br/&gt;- Undo and redo now include new text boxes, note edits, moves and drawing actions in a shared chronological history. Scrolling and automatic layout do not add undo steps.&lt;br/&gt;- Undo/redo buttons show a subtle hover highlight. Activate the eraser with one click; click it again to choose whole or partial erasing.&lt;br/&gt;- Partial erasing preserves the untouched portions of text highlights, including other highlighted lines.&lt;br/&gt;- Tags use tag-shaped icons to distinguish them from folder colors, and lazy tag menus can populate on the first attempt.&lt;br/&gt;- Pinch and Command-scroll zoom keep the gesture point steady on both axes instead of drifting toward the notes area. Keyboard zoom centers on the visible slide.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.82</title>
       <pubDate>Wed, 23 Sep 2026 09:36:47 -0700</pubDate>
       <sparkle:version>1.1.82</sparkle:version>

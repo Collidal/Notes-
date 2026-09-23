@@ -1,20 +1,35 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Notes ++</title>
-        <item>
-            <title>1.1.80</title>
-            <pubDate>Mon, 21 Sep 2026 11:11:20 -0700</pubDate>
-            <sparkle:version>1.1.80</sparkle:version>
-            <sparkle:shortVersionString>1.1.80</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.80.zip" length="311373524" type="application/octet-stream" sparkle:edSignature="YmwMZZQCV8gz4VADq1IRotQ3SLU/qY0L6GJ9m4rRsb0KKLzz5T6LnyYDR3v9R2LapF4hiJOaCIxlv2WDpKRdAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.79-to-1.1.80.delta" sparkle:deltaFrom="1.1.79" length="619898" type="application/octet-stream" sparkle:edSignature="NP8QNhVzft26LdfKcylx9fnnJz+QE9ksDauPhbcKxw/JftiyshZVRexk4OWrpcuG9fRxsHivvn7HkfRU5KYNDg=="/>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.78-to-1.1.80.delta" sparkle:deltaFrom="1.1.78" length="625842" type="application/octet-stream" sparkle:edSignature="YqXtmDQzol4pp16HV9Lqjn8JAKjDiC8K+aV925n0AA46izwwDAPvesTQ3m3C+MkP0FeV9ugXDfOvUcNvXZm8CQ=="/>
-                <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.77-to-1.1.80.delta" sparkle:deltaFrom="1.1.77" length="865354" type="application/octet-stream" sparkle:edSignature="eCDcMUlMNaoBrl2cHEQ7X8USSCXeUrzmOU9MtUSayofvvCec4rIQoy8u1ZJ1BrQQ3KGthxEHQy5PpBIjFwQ1Bg=="/>
-            </sparkle:deltas>
-        </item>
-    </channel>
+  <channel>
+    <title>Notes ++</title>
+    <item>
+      <title>1.1.81</title>
+      <pubDate>Wed, 23 Sep 2026 07:00:21 -0700</pubDate>
+      <sparkle:version>1.1.81</sparkle:version>
+      <sparkle:shortVersionString>1.1.81</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.81.zip" length="311446782" type="application/octet-stream" sparkle:edSignature="n/mWexDkcLFZCi2m5l6a6xE1pj/i+sUk21G/VqE/n4RqE6BtApn1ySNyYv76//BwRyZITBOFZ2grDMsmUsZJCg==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.80-to-1.1.81.delta" sparkle:deltaFrom="1.1.80" length="896398" type="application/octet-stream" sparkle:edSignature="bPY71eNx31BSwx3HvERCxkYypLoeL+oFsGBYffPsk3265Cmv7CzCY4LbttL0E0sAqk5aAIilsnLlh5oPd7n2Aw==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.79-to-1.1.81.delta" sparkle:deltaFrom="1.1.79" length="1004346" type="application/octet-stream" sparkle:edSignature="RTYja5njx/MQo/5mcZljkGxJkJl3ZU+72FQ8w2qFhtosrWTAZv7Y6pILgpRgv3LwPJj7HttOyBoq7WtMjv//Bg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.78-to-1.1.81.delta" sparkle:deltaFrom="1.1.78" length="1004882" type="application/octet-stream" sparkle:edSignature="808xKfORiNuAPRm4oCRmxEUq4+yWEIey27Iuh/hHeCR6Nn/ELbUdsbC5W+lrZHI/K4NiJ6Mx5DFD60K/VsG5Bw==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.81 — Smoother notes and focused practice&lt;br/&gt;&lt;br/&gt;- Choose Claude Sonnet 5 or Opus 5 for university AI. Older saved model preferences migrate automatically. The class answer bank prefers Claude 5 answers while older app versions can still generate answers.&lt;br/&gt;- Practice Weak Objectives builds a separate follow-up quiz from objectives missed in newly generated quizzes, preserving the original quiz and its results.&lt;br/&gt;- Smoother free-draw arrows and a quickly fading, tapered eraser trail. Choose partial-stroke or whole-stroke erasing; the selected mode persists.&lt;br/&gt;- Side notes scale with slides without changing text wrapping. Fixed screen-size notes remain an option in Settings → Drawing. Fixes disappearing text after zooming and scrolling and separates the note move and connector handles.&lt;br/&gt;- Pasted text adopts the note&amp;#x27;s formatting.&lt;br/&gt;- A Drawing settings tab includes an Apple Pencil / Sidecar option to hide drawing cursors. Search Settings to find options faster; university Claude enrollment is easier to find.&lt;br/&gt;- Reader action buttons stay on the right in narrower windows.&lt;br/&gt;- Opt into future beta releases from Settings → Updates. Stable updates remain available to everyone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.1.80</title>
+      <pubDate>Mon, 21 Sep 2026 11:11:20 -0700</pubDate>
+      <sparkle:version>1.1.80</sparkle:version>
+      <sparkle:shortVersionString>1.1.80</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.80.zip" length="311373524" type="application/octet-stream" sparkle:edSignature="YmwMZZQCV8gz4VADq1IRotQ3SLU/qY0L6GJ9m4rRsb0KKLzz5T6LnyYDR3v9R2LapF4hiJOaCIxlv2WDpKRdAQ==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.79-to-1.1.80.delta" sparkle:deltaFrom="1.1.79" length="619898" type="application/octet-stream" sparkle:edSignature="NP8QNhVzft26LdfKcylx9fnnJz+QE9ksDauPhbcKxw/JftiyshZVRexk4OWrpcuG9fRxsHivvn7HkfRU5KYNDg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.78-to-1.1.80.delta" sparkle:deltaFrom="1.1.78" length="625842" type="application/octet-stream" sparkle:edSignature="YqXtmDQzol4pp16HV9Lqjn8JAKjDiC8K+aV925n0AA46izwwDAPvesTQ3m3C+MkP0FeV9ugXDfOvUcNvXZm8CQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.77-to-1.1.80.delta" sparkle:deltaFrom="1.1.77" length="865354" type="application/octet-stream" sparkle:edSignature="eCDcMUlMNaoBrl2cHEQ7X8USSCXeUrzmOU9MtUSayofvvCec4rIQoy8u1ZJ1BrQQ3KGthxEHQy5PpBIjFwQ1Bg==" />
+      </sparkle:deltas>
+    </item>
+  </channel>
 </rss>

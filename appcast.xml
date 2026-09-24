@@ -3,6 +3,21 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.85</title>
+      <pubDate>Wed, 23 Sep 2026 18:48:26 -0700</pubDate>
+      <sparkle:version>1.1.85</sparkle:version>
+      <sparkle:shortVersionString>1.1.85</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.85.zip" length="311541570" type="application/octet-stream" sparkle:edSignature="Me7F69+bFaBGvmQsRSJBBKNuESDng3C+586M/b5AbXFhXilMaJPSsmWFqlyXY66gCYbMlq1rp7rNAyPY274zCQ==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.84-to-1.1.85.delta" sparkle:deltaFrom="1.1.84" length="563378" type="application/octet-stream" sparkle:edSignature="4v2U3/G66S552GB8vVEk2FM/vuGADS1l79XoT1exNZ4JjKHHzHNHaPxSgeFUul/A41711Do2uwFqsejjoEXSDg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.83-to-1.1.85.delta" sparkle:deltaFrom="1.1.83" length="745106" type="application/octet-stream" sparkle:edSignature="mVdQfNmpZ6PiO2X5Ewbuw0xldb9BLuW+H/JR+/0xd5476WK63hheiQUYGIsTmSPME0jPwTCbomrwQ+F0fisxBQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.82-to-1.1.85.delta" sparkle:deltaFrom="1.1.82" length="998446" type="application/octet-stream" sparkle:edSignature="lo4zWfQU7FSa+3X361QHK4w8ZN4U39huxwtdB1x3j1PwEqkdZskMI0FOQlHBSUd0OhPJIGm9XowRsQx0v2gYBg==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.85 — Natural zoom and better drawing&lt;br/&gt;&lt;br/&gt;- Pinch zoom stays on the visible slide. Wide side notes no longer allow zoom to crop a slide that still fits in the window; manual scrolling can still reach the notes canvas.&lt;br/&gt;- Hold Shift while dragging, or draw and hold still for half a second, to straighten pen, highlighter and arrow strokes. Straight lines gently snap horizontally near 0°/180°.&lt;br/&gt;- Click the active eraser again to choose its size and whole/partial-stroke mode. The size persists, controls the erase area, and is reflected in the quickly fading trail.&lt;br/&gt;- The university model picker continues to offer Claude Sonnet 5 and Opus 5 only.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.84</title>
       <pubDate>Wed, 23 Sep 2026 17:40:46 -0700</pubDate>
       <sparkle:version>1.1.84</sparkle:version>

@@ -3,6 +3,21 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.86</title>
+      <pubDate>Thu, 24 Sep 2026 14:28:34 -0700</pubDate>
+      <sparkle:version>1.1.86</sparkle:version>
+      <sparkle:shortVersionString>1.1.86</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.86.zip" length="311601067" type="application/octet-stream" sparkle:edSignature="h31FV+O+qD/CQXIwMdkp1gE+y/5CM+dBqWsvsPwFlDN1pt7VBeCiZyAIWH3RhY3pAfN2Q7TsfH2B6UGuTRJ/Bw==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.85-to-1.1.86.delta" sparkle:deltaFrom="1.1.85" length="1405646" type="application/octet-stream" sparkle:edSignature="N4+UHkGxMFzTN4c/cvjUeA/F1oX2wJeE+X6fKPXrS9Fv8A1hHrIxCnYD/FlJxdg9KSByIEd8OZc6Y0cxsghyDg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.84-to-1.1.86.delta" sparkle:deltaFrom="1.1.84" length="1466750" type="application/octet-stream" sparkle:edSignature="dmfr4HheqlcD39lB4x8IB8lT8O7L1tu2nRmbyq6oNwyVynojybjetEx7zUf1mG0etvC0JstHcDXI1yiMAKzhCw==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.83-to-1.1.86.delta" sparkle:deltaFrom="1.1.83" length="1532302" type="application/octet-stream" sparkle:edSignature="l+Vodf/sQIrxeu1kHal8dw6NokW7WjWxFSi4dMCD75dRYcTzNge+grHoU+2OiAWBeEK95j3+xvB8j8QELbswAw==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.86 — Clearer answers and easier lecture updates&lt;br/&gt;&lt;br/&gt;- Read LO answers continuously with working objective navigation, automatic current-LO highlighting (including the final objective), text-size controls, reading mode and per-LO copying. Removed the bouncing animation and “Jump to” label.&lt;br/&gt;- More compact pathway diagrams, improved table sizing and the original brighter table headers.&lt;br/&gt;- Select individual lectures to download. Command-click Download to fetch updated slides and replace matching existing files in their current group folders. Ambiguous duplicate filenames are reported instead of overwritten arbitrarily.&lt;br/&gt;- Add comments to selected PDF text or existing text highlights through the right-click menu. Hover to read comments; edits support undo/redo.&lt;br/&gt;- Removed text-box glow and added layout changes targeting folder-import hangs and note-creation constraint crashes.&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.85</title>
       <pubDate>Wed, 23 Sep 2026 18:48:26 -0700</pubDate>
       <sparkle:version>1.1.85</sparkle:version>

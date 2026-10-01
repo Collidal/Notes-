@@ -3,6 +3,21 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.94</title>
+      <pubDate>Wed, 30 Sep 2026 19:42:54 -0700</pubDate>
+      <sparkle:version>1.1.94</sparkle:version>
+      <sparkle:shortVersionString>1.1.94</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.94.zip" length="311728279" type="application/octet-stream" sparkle:edSignature="xgAunGokadq1grKY2+WZv0kVBz8WbfPVKg3nUwT1pBTZBg7Hd8ce5wYKORrzfb/cKMhn4i5z8tUxKSq2d6/PDA==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.93-to-1.1.94.delta" sparkle:deltaFrom="1.1.93" length="749202" type="application/octet-stream" sparkle:edSignature="gu/vgDcW8gw2raGIZ+rUzUfLbLlTPf5Ny+Vo/QgB6H2sG13iD/o6NOgs0Md1/O+6g4cClqdKa3U2Kd/6D+PGAg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.92-to-1.1.94.delta" sparkle:deltaFrom="1.1.92" length="841098" type="application/octet-stream" sparkle:edSignature="EHS2fTF2VKlfmbyNyOKB0RFEGE3ZmozD+LeHmas8mZfoRmIRaFhg6AkMqbDbfLMJ7oJlzKEKqQY/ouw4X7ByCA==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.91-to-1.1.94.delta" sparkle:deltaFrom="1.1.91" length="856158" type="application/octet-stream" sparkle:edSignature="0PgyBcWHTh/v+ubovjGd5RAg0CI3M2G1fLMDzxeejSjZwDodihWikK4yjni6yp7IQfVJ9g/fwldVD7/EmXn2Ag==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.94 — Objectives that stay with your lectures&lt;br/&gt;&lt;br/&gt;- Learning objectives retain a persistent file association through folder moves and renames, including collision suffixes. Existing stale download paths recover when the match is unambiguous. AI LO Answers uses the same association.&lt;br/&gt;- Well matched in the AnKing panel now selects individual cards with stronger relevance evidence rather than all cards in a matching topic.&lt;br/&gt;- Create a named filtered deck automatically from selected cards. First use installs the bundled Notes ++ Anki helper and requires one Anki restart; subsequent creations finish directly from Notes ++. Existing deck names are protected, and deleting a filtered deck returns cards to their original decks.&lt;br/&gt;- Optional Remember lecture slide positions setting under Settings → Drawing restores the saved slide position across app restarts. The default keeps the existing brief-switching behavior.&lt;br/&gt;&lt;br/&gt;Validation: 83 objective/parser/group tests, 64 AnKing/scroll-position tests, and four filtered-deck tests using a temporary Anki collection passed.&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.93</title>
       <pubDate>Tue, 29 Sep 2026 23:24:32 -0700</pubDate>
       <sparkle:version>1.1.93</sparkle:version>

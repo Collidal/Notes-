@@ -3,6 +3,22 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.97b1 (Beta)</title>
+      <pubDate>Thu, 01 Oct 2026 14:25:22 -0700</pubDate>
+      <sparkle:version>1.1.97b1</sparkle:version>
+      <sparkle:shortVersionString>1.1.97b1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.97b1.zip" length="311734937" type="application/octet-stream" sparkle:edSignature="Ukmv7JfeR1NE7PoPc+2nqfRJ562PurR0AMP52tIsy8beTdNLWUrNKNTEeEd/DeCjF1G8cq0JOEBFQUmGkkytBg==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.96-to-1.1.97b1.delta" sparkle:deltaFrom="1.1.96" length="613974" type="application/octet-stream" sparkle:edSignature="3CyiV2O8mrYfsqEJ4RiSoI4YW3VjKTZgl+WHXPbzAUrsYxZgpHjb5looYSLBZ/763PvgrLoHfQFMkd5eZ70WCA==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.95-to-1.1.97b1.delta" sparkle:deltaFrom="1.1.95" length="616006" type="application/octet-stream" sparkle:edSignature="8yFmdRIkgGsbgUZUI7f8HrOWeSNCpaDMh0uOW3EKu0SyYv/TTqHLpteq6iQI5ykuXGIJs4egLfFKaUKklZNgCg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.94-to-1.1.97b1.delta" sparkle:deltaFrom="1.1.94" length="632462" type="application/octet-stream" sparkle:edSignature="XYyjeRLYv53bkJ8GBVTOpW0au8gkMvpK1wt2wdsnXlQbjhcAEXH7lrCQULnE3dxVc5hc0VZdb8DHLc/sQCiTDw==" />
+      </sparkle:deltas>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;p&gt;Notes ++ 1.1.97b1 — Beta: scrolling crash fix&lt;br/&gt;&lt;br/&gt;- Defers and combines note refreshes and page updates so they run after AppKit scroll callbacks.&lt;br/&gt;- Disables concurrent scrolling for the custom note canvas and note scroll views to avoid overlapping text geometry and window constraint updates.&lt;br/&gt;- Avoids redundant note text-frame changes.&lt;br/&gt;- Defers current-LO tracking and scroll-triggered AMBOSS dismissal.&lt;br/&gt;&lt;br/&gt;Testing: 31 regression checks passed, including repeatedly editing a note and scrolling away and back, zoom, note scroll handoff, LO navigation, and hover behavior. The exact crash reported on macOS 26.6.2 still needs verification by the affected tester.&lt;br/&gt;&lt;br/&gt;Testers: enable Settings → Updates → Receive beta updates, then check for updates. Stable users remain on 1.1.96.&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.96</title>
       <pubDate>Thu, 01 Oct 2026 10:09:54 -0700</pubDate>
       <sparkle:version>1.1.96</sparkle:version>

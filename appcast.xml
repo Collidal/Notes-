@@ -3,6 +3,21 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.103</title>
+      <pubDate>Fri, 09 Oct 2026 09:10:29 -0700</pubDate>
+      <sparkle:version>1.1.103</sparkle:version>
+      <sparkle:shortVersionString>1.1.103</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.103.zip" length="311925701" type="application/octet-stream" sparkle:edSignature="p8pdiHXIHEGmbVVrmGEzPmcanVwX8cNz3/EcnKvKSBCkLb4bVdFgXv75YZqPP//GWnTD+0ClCctoQWQKmOZ2Bw==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.102-to-1.1.103.delta" sparkle:deltaFrom="1.1.102" length="920694" type="application/octet-stream" sparkle:edSignature="wuaWsUyPTtXpqHLpAURRs0pbuclLl9SOhFyRBDqam0Y63Gri80MjRdnHdi7B3X3f2NR4+UIPf1EwxZpO8FIvDg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.101-to-1.1.103.delta" sparkle:deltaFrom="1.1.101" length="929858" type="application/octet-stream" sparkle:edSignature="Qslg6XkRU4F1ie5IozZ0MmiIQbKPjwrdkm30Pygx8Mfn8TxJ8RxFu6X4tSx2aPbUNStANcrd/eqsARVqz0jOBw==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.100-to-1.1.103.delta" sparkle:deltaFrom="1.1.100" length="947386" type="application/octet-stream" sparkle:edSignature="a31buUXp6Uv3FXc5KN+tNbOZLjngbV4s336qOo67w9xS7sUF5S+uwpx+DFheoyAfdApsP5T9/XXbOZy15eMoBw==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.103 — A clearer, more flexible LO reader&lt;br/&gt;&lt;br/&gt;- Search AI LO answers with exact-word highlights and match indicators on the LO buttons.&lt;br/&gt;- Command-click Read to detach answers into a separate window above Notes ++. The reader hides when switching to another app.&lt;br/&gt;- More compact arrow-connected figures preserve branches, shared steps and relationship labels. Existing answers use the improved layout automatically.&lt;br/&gt;- Cleaner answer headings and metadata, corrected italic formatting around linked terms, and better drawer sizing in smaller windows.&lt;br/&gt;- Keep the AI answer drawer open when changing lectures and preserve its position when reopening it.&lt;br/&gt;- Split lectures now show highlights, drawings and notes, support editing, and route search and undo to the active pane.&lt;br/&gt;- Press H with PDF text selected to apply a text highlight.&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.102</title>
       <pubDate>Thu, 08 Oct 2026 17:14:40 -0700</pubDate>
       <sparkle:version>1.1.102</sparkle:version>

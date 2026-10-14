@@ -3,6 +3,21 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.107</title>
+      <pubDate>Tue, 13 Oct 2026 20:13:07 -0700</pubDate>
+      <sparkle:version>1.1.107</sparkle:version>
+      <sparkle:shortVersionString>1.1.107</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.107.zip" length="312213251" type="application/octet-stream" sparkle:edSignature="N7w/XDbcxkKFXzny3I9B6TF8tZZPKBx2lZWTf6oxGwKiZAZO5MI9dCelJho9QB4wcjTUXcPxdHRkGZoYtGWMCQ==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.106-to-1.1.107.delta" sparkle:deltaFrom="1.1.106" length="244866" type="application/octet-stream" sparkle:edSignature="f3rJScjwt4zCCzAEme7gJqcCKg5/mbf2PB1UgCnveEH4rd5s3paysQ2jtLzEV/S9dk52grQ5NwyucjGrIG0CAQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.105-to-1.1.107.delta" sparkle:deltaFrom="1.1.105" length="991014" type="application/octet-stream" sparkle:edSignature="WAex4jTR55H9OiU+GEwiD6ODCPkfbn3XakHxvK8CBuH4CQcAD2rOLAgRWSVHMmXHO8ibhqpbXhql7B4uCmQ4BQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.104-to-1.1.107.delta" sparkle:deltaFrom="1.1.104" length="1129562" type="application/octet-stream" sparkle:edSignature="brl0rz+orI9LZ9KLK4R4b89jALk43MYj7tXE3K/lakQ65LwgRHwjBdYitRMwXwTwG8Dv/x8F8+O4JBTB5IVMCA==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.107 — A board for your class&lt;br/&gt;&lt;br/&gt;- Separate MS1 and MS2 class boards follow the medical year selected in Settings. Each class has its own publishing permissions and local cache. Existing exam breakdowns stay on the MS2 board.&lt;br/&gt;- A searchable split-view lecture picker makes choosing a second lecture easier.&lt;br/&gt;- Anki requests allow more time for large collections and explain connection problems more clearly.&lt;br/&gt;- Class enrollment supports up to three signed-in devices per person.&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.106</title>
       <pubDate>Tue, 13 Oct 2026 20:07:01 -0700</pubDate>
       <sparkle:version>1.1.106</sparkle:version>

@@ -3,6 +3,21 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.106</title>
+      <pubDate>Tue, 13 Oct 2026 20:07:01 -0700</pubDate>
+      <sparkle:version>1.1.106</sparkle:version>
+      <sparkle:shortVersionString>1.1.106</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.106.zip" length="312213262" type="application/octet-stream" sparkle:edSignature="muxYaNLO9CIC7qWRsed26za72hcd+uYMySN5SbyxMHBS1vp4iLF1wv8uO8KQ8qFQYOVt0QYyU42bWszDqbM2CQ==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.105-to-1.1.106.delta" sparkle:deltaFrom="1.1.105" length="991610" type="application/octet-stream" sparkle:edSignature="mBNGhfVF/eckIt/yKSEhLTUztKjAP3+6ZUzjGkWMwaspSDla+mPCvzhYlLrHnQFwAkL+qMVFzseM8M2FGUh4DQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.104-to-1.1.106.delta" sparkle:deltaFrom="1.1.104" length="1131322" type="application/octet-stream" sparkle:edSignature="wF/oYyYHFLthr/0lmZk1cjglHsHC+9h07bHGjfyPNhKTm1wlAS2I0KhqEaqs4SoetfgNcokNp0lt+8Bfp7A9CQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.103-to-1.1.106.delta" sparkle:deltaFrom="1.1.103" length="1232134" type="application/octet-stream" sparkle:edSignature="q8hNeZxfn8dmbqLF5bN84U5XUvo9sN+dFh8DAUSGT4UxJ018hUbVvLIOl6wkO28CNi7NEsk2P4AzHvwA1Hq1DA==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.106 — A board for your class&lt;br/&gt;&lt;br/&gt;- Separate MS1 and MS2 class boards follow the medical year selected in Settings. Each class has its own publishing permissions and local cache. Existing exam breakdowns stay on the MS2 board.&lt;br/&gt;- Class board publishers can edit shared breakdown tables in the app.&lt;br/&gt;- The dashboard rotates through 20 time-of-day greetings and 31 daily sayings, keeping wording stable while you study.&lt;br/&gt;- A searchable split-view lecture picker makes choosing a second lecture easier.&lt;br/&gt;- Anki requests allow more time for large collections and explain connection problems more clearly.&lt;br/&gt;- Class enrollment supports up to three signed-in devices per person.&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.105</title>
       <pubDate>Tue, 13 Oct 2026 17:08:51 -0700</pubDate>
       <sparkle:version>1.1.105</sparkle:version>

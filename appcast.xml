@@ -3,6 +3,22 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.109b1 (Beta)</title>
+      <pubDate>Thu, 15 Oct 2026 08:37:40 -0700</pubDate>
+      <sparkle:version>1.1.109b1</sparkle:version>
+      <sparkle:shortVersionString>1.1.109b1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.109b1.zip" length="312221970" type="application/octet-stream" sparkle:edSignature="6OeD8av4TAAnqA8GSLb2Zkoh0U2lkoxLTFi3Njp1R5N+zShF7fPjQDAi9pmfGJ+5jnWdSwly8qbgJ/uDdkLUBg==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.108-to-1.1.109b1.delta" sparkle:deltaFrom="1.1.108" length="584594" type="application/octet-stream" sparkle:edSignature="vz/zl/jEkqbVjVjhuxzbTqOJENwIe7EfSs1dmr1TCtONGoLX5Dz6sWxWvMjj42H86GY4042E2DOrTSR/4P61BA==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.107-to-1.1.109b1.delta" sparkle:deltaFrom="1.1.107" length="593494" type="application/octet-stream" sparkle:edSignature="1F33KB616ULh/wLgP79dd3vNtkWt5jAHXOZcAe9sgbUDlrOVbDeJOWEF2gbZ+MGAHL0knjLj7BXA5h9pKfdkBg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.106-to-1.1.109b1.delta" sparkle:deltaFrom="1.1.106" length="587390" type="application/octet-stream" sparkle:edSignature="rPUt2XRwGXwbghcEGE2ivjGdSQfs/thpVErjdMiNvvU3krImjSaiQ1EfTEluekW04pUdQaQrhr1vQwlHiIkrBg==" />
+      </sparkle:deltas>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;p&gt;Notes ++ 1.1.109b1 — Beta: Anki connection recovery&lt;br/&gt;&lt;br/&gt;- A deck with unavailable counts no longer disconnects the entire Anki dashboard. Available counts still load, and incomplete totals are clearly labeled.&lt;br/&gt;- Avoids repeatedly reinstalling an already-current Notes ++ Filtered Decks helper. Provides restart and enablement instructions, with subdecks as an interim alternative.&lt;br/&gt;&lt;br/&gt;Four recovery tests passed. The affected user&amp;#x27;s helper-loading compatibility still needs verification with their Anki version.&lt;br/&gt;&lt;br/&gt;To receive this beta, enable Settings → Updates → Receive beta updates, then check for updates.&lt;br/&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.108</title>
       <pubDate>Wed, 14 Oct 2026 18:19:16 -0700</pubDate>
       <sparkle:version>1.1.108</sparkle:version>

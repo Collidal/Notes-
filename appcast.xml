@@ -3,6 +3,22 @@
   <channel>
     <title>Notes ++</title>
     <item>
+      <title>1.1.121</title>
+      <pubDate>Sat, 07 Nov 2026 18:53:09 -0700</pubDate>
+      <sparkle:version>1.1.121</sparkle:version>
+      <sparkle:shortVersionString>1.1.121</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.121.zip" length="313179967" type="application/octet-stream" sparkle:edSignature="ER0TImiFTenbCi6w1YX8J3fjqCSSS3YtHKHGf0zlYFA/wroOTFluBLxbN0NCp+IDAjbsfYOKqsfX3AAkzDLFBw==" />
+      <sparkle:deltas>
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.120-to-1.1.121.delta" sparkle:deltaFrom="1.1.120" length="1236938" type="application/octet-stream" sparkle:edSignature="gNWwSoP3Wf743jTLuGwg3835F1FFxHRXz4IQzUBY2+DHuhdzS+6rODyTmSyT06bdBSuB8aeTRQCd9nkBbcgQCQ==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.119-to-1.1.121.delta" sparkle:deltaFrom="1.1.119" length="1496830" type="application/octet-stream" sparkle:edSignature="epQSddXkXZ0yrUIFR7JWgG9ZMdJFYewzaYN1iV4e0T0TT8IF35Icxt0L9LCj3zOR6/wKgXTiw9IHd65GuWZ3Bg==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.118-to-1.1.121.delta" sparkle:deltaFrom="1.1.118" length="1619114" type="application/octet-stream" sparkle:edSignature="iyCTpFdBHzQQCKQT3R/+1XIWnhrz1StV6SMvwYuxD75o9huI6VT2zSH/mMc/btTUVVsMNXIuYwAg5Ic0wy9QCA==" />
+        <enclosure url="https://pub-6c2349c9a8a4430bb975409e6cf2e4ae.r2.dev/NotesPlusPlus-1.1.121b7-to-1.1.121.delta" sparkle:deltaFrom="1.1.121b7" length="948654" type="application/octet-stream" sparkle:edSignature="nWgPFEK4ED0Ljg2DCFi9IOi/2AUM43wQvjq0bJteJM4wcp8b/jblopO4rJTv9brCrP6TO+kaxtLphp9CJ2BrBg==" />
+      </sparkle:deltas>
+      <description>&lt;p&gt;Notes ++ 1.1.121&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>1.1.121b7 (Beta)</title>
       <pubDate>Thu, 05 Nov 2026 21:41:31 -0700</pubDate>
       <sparkle:version>1.1.121b7</sparkle:version>
